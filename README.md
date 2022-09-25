@@ -75,6 +75,11 @@ Gerar a key do projeto Laravel
 php artisan key:generate
 ```
 
+Instalar as dependências node.js
+```sh
+npm install
+```
+
 ```sh
 npm run watch
 ```
