@@ -50,10 +50,6 @@ Necessário Node.js (> v16) Recomendado NVM
 Para Instalar no WSL:
 https://learn.microsoft.com/pt-br/windows/dev-environment/javascript/nodejs-on-wsl
 
-```sh
-docker compose build --no-cache
-```
-
 Após criar e atualizar a .env do projeto, execute o comanando para buildar os containers
 ```sh
 docker compose build --no-cache
