@@ -62,7 +62,7 @@ docker compose up -d
 
 Acessar o container
 ```sh
-docker compose exec app bash
+docker exec -it app bash
 ```
 
 Instalar as dependências do projeto
